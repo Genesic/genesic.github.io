@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Henry Resume"
+description: "Henry resume for Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -10,13 +10,13 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
-resume_contact_email:           "homerjsimpson@youremailaddress.com"
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_name:                    "Chu, Hen-wei (朱漢崴)"
+resume_title:                   "Full stack develoepr"
+resume_contact_email:           "genesicx@gmail.com"
+resume_contact_telephone:       "886-922027977"
+resume_contact_address:         "7F., No.17, Ln. 51, Baoshun Rd., Yonghe Dist., New Taipei City 234, Taiwan (R.O.C.)"
+resume_header_contact_info: "886-922027977 | genesicx@gmail.com"
+resume_header_intro: "<p>Hello, i am a full-stack software developer with 5+ year system design, development, and maintain experience.<br> <li>Familiar with working knowledge of Linux, MySQL and Git</li><li>Experience with scripting languages such as Perl, PHP, Javascript</li><li>Experience in developing scalable server architecture.</li><li>Strong learning ability, use different language according to project requirement</li></p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -38,13 +38,8 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+    resume_github_url:            "https://github.com/Genesic"
+    resume_linkedin_url:          "https://www.linkedin.com/in/henwei-chu-131753107/"
 resume_print_social_links:      true
 
 # Design settings
