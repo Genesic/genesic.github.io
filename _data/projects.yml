@@ -18,7 +18,7 @@
   role: Primary Developer
   duration: 2016 &mdash; Present
   # url: "#"
-  description: <p>Voice reminder for smart watch. <li>Support Amazon Alexa Skill</li><li>Backend developed by Node-js(with Express) and MySQL</li><li>Build on Amazon Web Service</li></p>
+  description: <p>Voice reminder for smart watch. <li>Support Amazon Alexa Skill</li><li>Backend developed by Node-js(with Parse and Express) and MySQL</li><li>Build on Amazon Web Service</li></p>
 
 - project: Tank hit
   role: Backend Developer
