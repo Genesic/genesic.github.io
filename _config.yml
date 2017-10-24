@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Chu, Hen-wei (朱漢崴)"
 resume_title:                   "Full stack develoepr"
 resume_contact_email:           "genesicx@gmail.com"
@@ -30,7 +30,7 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          false
-resume_section_recognition:     true
+resume_section_recognition:     false
 resume_section_links:           false
 resume_section_associations:    false
 # resume_section_interests:       true
