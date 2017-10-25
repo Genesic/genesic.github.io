@@ -36,7 +36,7 @@
   role: Primary Backend Developer
   duration: 2012 &mdash; 2016
   url: "http://www.gunsrush.com/gunsrush/guide/?enc_f="
-  description: <p>Web-based 3D Third-Person Shooting game <li>Responsible for architecture design and system development</li><li>Backend developed by Perl and MySQL</li><li>Had over 10000+ peak concurrect users(PCU)</li></p>
+  description: <p>Web-based 3D Third-Person Shooting game <li>Responsible for architecture design and system development</li><li>Backend developed by Perl and MySQL</li><li>Had over 10000+ peak concurrent users(PCU)</li></p>
 
 - project: 封神2仙界傳 
   role: Developer
