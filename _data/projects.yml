@@ -6,19 +6,19 @@
   role: Founder & Primary Developer
   duration: 2016 &mdash; Present
   url: "https:/reurl.cc/"
-  description: <p>On the popular shorten URLs application like goo.gl or bit.ly, you can easily get the click analytics by adding "+" symbol at the tale of url which you are interested in. But it's not a interesting things for some marketing. So i develop this project that making all click analytics are private for every shortened URL. <li>Provide shorten URLs service</li><li>Provide Chrome Extension and URLs management for user</li> <li>Provide Web API for developer</li><li>Developed by Node-js(with Express) and MySQL </li><li>Build on Google Cloud Platform</li></p>
+  description: <p>Silmilar to the popular URL-shortening application like goo.gl or bit.ly, you can your click analytics easily by adding "+" symbol at the end of an url that you are interested in. However, some people would like this information to be hidden, so I made an added feature that all click analytics are private for every shortened URL. <li>Provide URL-shortening service</li><li>Provide Chrome Extension and URL-management for user</li> <li>Provide Web API for developers</li><li>Developed by Node-js(with Express) and MySQL </li><li>Built on Google Cloud Platform</li></p>
 
 - project: Firmware online update
   role: Primary Backend Developer
   duration: 2016 &mdash; Present
   # url: "#"
-  description: <p>The system let firmware can be online updated for smart watch. <li>Backend developed by Node-js(with Express) and MySQL</li><li>Build on Amazon Web Service</li></p>
+  description: <p>The system allows smartwatch firmwares to be updated online. <li>Backend developed by Node-js(with Express) and MySQL</li><li>Built on Amazon Web Service</li></p>
 
 - project: Voice Reminder (unnamed)
   role: Primary Developer
   duration: 2016 &mdash; Present
   # url: "#"
-  description: <p>Voice reminder for smart watch. <li>Support Amazon Alexa Skill</li><li>Backend developed by Node-js(with Parse and Express) and MySQL</li><li>Build on Amazon Web Service</li></p>
+  description: <p>Voice reminder for smart watch. <li>Supports Amazon Alexa Skill</li><li>Backend developed by Node-js(with Parse and Express) and MySQL</li><li>Built on Amazon Web Service</li></p>
 
 - project: Tank hit
   role: Backend Developer
@@ -30,16 +30,16 @@
   role: Backend Developer
   duration: 2012 &mdash; 2016
   url: "https://play.google.com/store/apps/details?id=com.gamesofa.android.marbles&hl=zh_TW"
-  description: <p>The game let you control your marbles to attack enemy with friends <li>Mobile game</li><li>Backend developed by Perl and MySQL</li></p>
+  description: <p>The game lets you attck your enemies by using marbles while teaming up with friends<li>Mobile game</li><li>Backend developed by Perl and MySQL</li></p>
 
 - project: Gunsrush 
   role: Primary Backend Developer
   duration: 2012 &mdash; 2016
   url: "http://www.gunsrush.com/gunsrush/guide/?enc_f="
-  description: <p>Web-based 3D Third-Person Shooting game <li>Responsible for architecture designing and system developing</li><li>Backend developed by Perl and MySQL</li><li>Had been 10000+ peak concurrect user(PCU)</li></p>
+  description: <p>Web-based 3D Third-Person Shooting game <li>Responsible for architecture design and system development</li><li>Backend developed by Perl and MySQL</li><li>Had over 10000+ peak concurrect users(PCU)</li></p>
 
 - project: 封神2仙界傳 
   role: Developer
   duration: 2009 &mdash; 2012
   url: "http://www.gametower.com.tw/Games/God2/index.aspx"
-  description: <p>A launched MMO-PRG on PC <li>Responsible for maitaining server and client</li><li>Server and client developed by VirtualC++6.0 and MsSQL </li></p>
+  description: <p>A launched MMO-PRG on PC <li>Responsible for maintaining its server and client</li><li>Server and client developed by VirtualC++6.0 and MsSQL </li></p>
