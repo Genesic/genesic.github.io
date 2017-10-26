@@ -14,7 +14,7 @@
   # url: "#"
   description: <p>The system allows smartwatch firmwares to be updated online. <li>Backend developed by Node-js(with Express) and MySQL</li><li>Built on Amazon Web Service</li></p>
 
-- project: Voice Reminder (unnamed)
+- project: Voice Reminder (Not yet launched)
   role: Primary Developer
   duration: 2016 &mdash; Present
   # url: "#"
@@ -26,7 +26,7 @@
   url: "http://www.gamesofa.com/tankapp/wiki/"
   description: <p>Real-time tank pvp game <li>Mobile game</li><li>Backend developed by Perl and MySQL</p>
 
-- project: BBShooter
+- project: BBShooter (Be closed)
   role: Backend Developer
   duration: 2012 &mdash; 2016
   url: "https://play.google.com/store/apps/details?id=com.gamesofa.android.marbles&hl=zh_TW"
