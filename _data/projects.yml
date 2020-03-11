@@ -6,7 +6,7 @@
   role: Founder & Primary Developer
   duration: 2016 &mdash; Present
   url: "https:/reurl.cc/"
-  description: <p>Silmilar to the popular URL-shortening application like goo.gl or bit.ly, you can get the click analytics easily by adding "+" symbol at the end of the url that you are interested in. However, some people would like this information to be hidden, so I developed this project and made all click analytics are private for every shortened URL. This is the main reason why I developed this application. <li>Provide URL-shortening service</li><li>Provide Chrome Extension and URL-management for user</li> <li>Provide Web API for developers</li><li>Backend developed by Node-js(with Express), MySQL and Redis </li><li>Frontend developed by Pug, jQuery and Bootstrap</li><li>Built on Google Cloud Platform</li></p>
+  description: <p>A simple & easy to use URL-shorten service <li>Provide Chrome Extension, lineBot and URL-management for general user</li>  <li>Provide Web API for developers</li> <li>Support Facebook or Google authentication</li> <li>Backend developed by Node-js(with Express), MySQL and Redis in the beginning</li><li>Backend already migrated to the Golang(with iris) now</li><li>Frontend developed by Pug, jQuery and Bootstrap</li><li>Built on Google Cloud Platform</li></p>
 
 - project: Firmware online update
   role: Primary Backend Developer
