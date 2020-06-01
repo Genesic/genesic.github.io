@@ -10,13 +10,13 @@
 
 - project: Firmware online update
   role: Primary Backend Developer
-  duration: 2016 &mdash; Present
+  duration: 2016 &mdash; 2018
   # url: "#"
   description: <p>The system allows smartwatch firmwares to be updated online. <li>Backend developed by Node-js(with Express) and MySQL</li><li>Built on Amazon Web Service</li></p>
 
 - project: Voice Reminder (Not yet launched)
   role: Primary Developer
-  duration: 2016 &mdash; Present
+  duration: 2016 &mdash; 2018
   # url: "#"
   description: <p>Voice reminder for smart watch. <li>Supports Amazon Alexa Skill</li><li>Backend developed by Node-js(with Parse and Express) and MongoDB</li><li>Built on Amazon Web Service</li></p>
 
