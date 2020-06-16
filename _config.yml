@@ -16,7 +16,7 @@ resume_contact_email:           "genesicx@gmail.com"
 resume_contact_telephone:       "886-922027977"
 resume_contact_address:         "7F., No.17, Ln. 51, Baoshun Rd., Yonghe Dist., New Taipei City 234, Taiwan (R.O.C.)"
 resume_header_contact_info: "886-922027977 | genesicx@gmail.com"
-resume_header_intro: "<p>Hello, I am a full-stack software developer with 5+ year experience in system design, development, and maintenance.<br> <li>Familiar with working knowledge of Linux, MySQL, Mongo and Git</li><li>Experience with languages such as Scala, Java, Go and NodeJS</li><li>Experience in developing scalable server architecture.</li><li>Strong learning ability, usage of different languages according to project requirement</li></p>"
+resume_header_intro: "<p>Hello, I am a backend software developer with 8+ year experience in system design, development, and maintenance.<br> <li>Familiar with working knowledge of Linux, MySQL, Mongo and Git</li><li>Experience with languages such as Scala, Java, Go and NodeJS</li><li>Experience in developing scalable server architecture.</li><li>Strong learning ability, usage of different languages according to project requirement</li></p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
