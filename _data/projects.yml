@@ -11,7 +11,7 @@
 - project: CHT account integration (HTC)
   role: Topic owner
   duration: 2020
-  description: <p> Account integration with CHT on 5g project <li> Create new HTC account enroll flow based on the information in token carried by CHT <li> Backend developed by scala(with Finatra)
+  description: <p> Account integration with CHT on 5g project <li> Create new HTC account enroll flow based on the token and API provided by CHT <li> Backend developed by scala(with Finatra)
 
 - project: Multi Factor Authentication (HTC)
   role: Topic owner
