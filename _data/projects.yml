@@ -5,7 +5,7 @@
 - project: Reurl 
   role: Founder & Primary Developer
   duration: 2016 &mdash; Present
-  url: "https:/reurl.cc/"
+  url: "https://reurl.cc"
   description: <p>A simple & easy to use URL-shorten service <li>Provide Chrome Extension, lineBot and URL-management for general user</li>  <li>Provide Web API for developers</li> <li>Support Facebook or Google authentication</li> <li>Backend developed by Node-js(with Express), MySQL and Redis in the beginning</li><li>Backend already migrated to the Golang(with iris) now</li><li>Frontend developed by Pug, jQuery and Bootstrap</li><li>Built on Google Cloud Platform</li></p>
 
 - project: CHT account integration (HTC)
