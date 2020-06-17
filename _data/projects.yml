@@ -21,7 +21,7 @@
 - project: Organization (HTC)
   role: Topic owner
   duration: 2019 &mdash; 2020
-  description: <p> Provide a system for enterprise managers to manage members <li> Use RBAC(role based access control) as the basis for authorization <li> Applied to different business user in VIVEPORT such as enterprise, arcade and devcon <li> Backend developed by scala(with Finatra)
+  description: <p> Provide enterprise management system to manage members <li> Use RBAC(role based access control) as the basis for authorization <li> Applied to different business user in VIVEPORT such as enterprise, arcade and devcon <li> Backend developed by scala(with Finatra)
 
 - project: Firmware online update (SilverPlus)
   role: Primary Backend Developer
