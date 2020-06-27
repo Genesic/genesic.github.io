@@ -15,17 +15,17 @@
   description: <p>Simple, easy and free online tools <li>Backend developed by NodeJS(with Express)</li> <li> Frontend developed by VueJS and jQuery and Bootstrap </li> <li>Built on Google Cloud Platform</li></p>
 
 - project: CHT account integration (HTC)
-  role: Topic owner
+  role: Project owner
   duration: 2020
   description: <p> Account integration with CHT on 5G project <li> Create new HTC account enroll flow based on the token and API provided by CHT <li> Backend developed by scala(with Finatra)
 
 - project: Multi Factor Authentication (HTC)
-  role: Topic owner
+  role: Project owner
   duration: 2019 &mdash; 2020
   description: <p> Provide 2-way fator authentication for HTC account <li> Send pin-code to email/phone for authentication <li> Backend developed by scala(with Finatra) <li> Frontend developed by ReactJS
 
 - project: Organization (HTC)
-  role: Topic owner
+  role: Project owner
   duration: 2019 &mdash; 2020
   description: <p> Provide enterprise management system to manage members <li> Use RBAC(role based access control) as the basis for authorization <li> Applied to different business user in VIVEPORT such as enterprise, arcade and devcon <li> Backend developed by scala(with Finatra)
 
