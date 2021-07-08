@@ -18,7 +18,7 @@
   role: Solution Architect
   duration: 2020 &mdash; Present
   url: "https://apps.apple.com/tw/app/nu-%E7%87%9F%E9%A4%8A%E4%BA%8C%E6%AC%A1%E6%96%B9/id1531690579"
-  description: <p> iOS app for diet and health management <li> Based on Amazon Elastic Kubernetes Service (Amazon EKS) <li> Build AWS infrastructure with Terraform <li> Build CI/CD pipelines with gitlab-ci + jenkins <li> Build backend service with golang+redis+mysql
+  description: <p> iOS app for diet and health management <li> Based on Amazon Elastic Kubernetes Service (Amazon EKS) <li> Build AWS infrastructure with Terraform <li> Build CI/CD pipelines with gitlab-ci + jenkins <li> Build micro-service with golang+redis+mysql
 
 - project: CHT account integration (HTC)
   role: Project owner
