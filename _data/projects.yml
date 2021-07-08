@@ -17,55 +17,56 @@
 - project: Nu2 (Dishrank)
   role: Solution Architect
   duration: 2020 &mdash; Present
+  url: "https://apps.apple.com/tw/app/nu-%E7%87%9F%E9%A4%8A%E4%BA%8C%E6%AC%A1%E6%96%B9/id1531690579"
   description: <p> iOS app for diet and health management <li> Based on Amazon Elastic Kubernetes Service (Amazon EKS) <li> Build AWS infrastructure with Terraform <li> Build CI/CD pipelines with gitlab-ci + jenkins <li> Build backend service with golang+redis+mysql
 
 - project: CHT account integration (HTC)
   role: Project owner
   duration: 2020
-  description: <p> Account integration with CHT on 5G project <li> Create new HTC account enroll flow based on the token and API provided by CHT <li> Backend developed by scala(with Finatra)
+  description: <p> Account integration with CHT on 5G project <li> Create new HTC account enroll flow based on the token and API provided by CHT <li> Build backend service with scala+mongoDB
 
 - project: Multi Factor Authentication (HTC)
   role: Project owner
   duration: 2019 &mdash; 2020
-  description: <p> Provide 2-way fator authentication for HTC account <li> Send pin-code to email/phone for authentication <li> Backend developed by scala(with Finatra) <li> Frontend developed by ReactJS
+  description: <p> Provide 2-way fator authentication for HTC account <li> Send pin-code to email/phone for authentication <li> Build backend service with scala+mongoDB <li> Build frontend with ReactJS
 
 - project: Organization (HTC)
   role: Project owner
   duration: 2019 &mdash; 2020
-  description: <p> Provide enterprise management system to manage members <li> Use RBAC(role based access control) as the basis for authorization <li> Applied to different business user in VIVEPORT such as enterprise, arcade and devcon <li> Backend developed by scala(with Finatra)
+  description: <p> Provide enterprise management system to manage members <li> Use RBAC(role based access control) as the basis for authorization <li> Applied to different business user in VIVEPORT such as enterprise, arcade and devcon <li> Build backend service with scala+mysql
 
 - project: Firmware online update (SilverPlus)
   role: Primary Backend Developer
   duration: 2016 &mdash; 2018
   # url: "#"
-  description: <p>The system allows smartwatch firmwares to be updated online. <li>Backend developed by Node-js(with Express) and MySQL</li><li>Built on Amazon Web Service</li></p>
+  description: <p>The system allows smartwatch firmwares to be updated online. <li>Build backend service with nodejs+mysql</p>
 
 - project: Voice Reminder (SilverPlus)
   role: Primary Developer
   duration: 2016 &mdash; 2018
   # url: "#"
-  description: <p>Voice reminder for smart watch. <li>Supports Amazon Alexa Skill</li><li>Backend developed by Node-js(with Parse and Express) and MongoDB</li><li>Built on Amazon Web Service</li></p>
+  description: <p>Voice reminder for smart watch. <li>Supports Amazon Alexa Skill</li><li>Build backend service with nodejs+mongoDB</li></p>
 
 - project: Tank hit (GameSofa)
   role: Backend Developer
   duration: 2012 &mdash; 2016
   url: "http://www.gamesofa.com/tankapp/wiki/"
-  description: <p>Real-time tank pvp game <li>Mobile game</li><li>Backend developed by Perl and MySQL</p>
+  description: <p>Real-time tank pvp game <li>Mobile game</li><li>Build backend service with perl+mysql</p>
 
 - project: BBShooter (GameSofa)
   role: Backend Developer
   duration: 2012 &mdash; 2016
   url: "https://play.google.com/store/apps/details?id=com.gamesofa.android.marbles&hl=zh_TW"
-  description: <p>The game lets you attck your enemies by using marbles while teaming up with friends<li>Mobile game</li><li>Backend developed by Perl and MySQL</li></p>
+  description: <p>The game lets you attck your enemies by using marbles while teaming up with friends<li>Mobile game</li><li>Build backend service with perl+mysql/li></p>
 
 - project: Gunsrush (GameSofa)
   role: Primary Backend Developer
   duration: 2012 &mdash; 2016
   url: "http://www.gunsrush.com/gunsrush/guide/?enc_f="
-  description: <p>Web-based 3D Third-Person Shooting game <li>Responsible for architecture design and system development</li><li>Backend developed by Perl and MySQL</li><li>Had over 10000+ peak concurrent users(PCU)</li></p>
+  description: <p>Web-based 3D Third-Person Shooting game <li>Responsible for architecture design and system development</li><li>Build backend service with perl+mysql/li><li>Had over 10000+ peak concurrent users(PCU)</li></p>
 
 - project: 封神2仙界傳 (IGS)
   role: Developer
   duration: 2009 &mdash; 2012
   url: "http://www.gametower.com.tw/Games/God2/index.aspx"
-  description: <p>A launched MMO-PRG on PC <li>Responsible for maintaining its server and client</li><li>Server and client developed by VirtualC++6.0 and MsSQL </li></p>
+  description: <p>A launched MMO-PRG on PC <li>Responsible for maintaining its server and client</li><li>Build backend server with VirtualC++6.0 and MsSQL </li> <li> Build client with VirtualC++6.0</p>
