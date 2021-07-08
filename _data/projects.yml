@@ -14,6 +14,11 @@
   url: "https://youtils.cc"
   description: <p>Simple, easy and free online tools <li>Backend developed by NodeJS(with Express)</li> <li> Frontend developed by VueJS and jQuery and Bootstrap </li> <li>Built on Google Cloud Platform</li></p>
 
+- project: Nu2 (Dishrank)
+  role: Solution Architect
+  duration: 2020 &mdash; Present
+  description: <p> iOS app for diet and health management <li> Based on Amazon Elastic Kubernetes Service (Amazon EKS) <li> Build AWS infrastructure with Terraform <li> Build CI/CD pipelines with gitlab-ci + jenkins <li> Build backend service with golang+redis+mysql
+
 - project: CHT account integration (HTC)
   role: Project owner
   duration: 2020
